@@ -1,0 +1,18 @@
+{
+  "name": "server_a",
+  "version": "1.0.0",
+  "description": "This directory is for the code and documentation of the _server A_. A starter Dockerfile has been added, it has some comments to get you started.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "kafkajs": "^2.2.4",
+    "ws": "^8.18.1"
+  }
+}

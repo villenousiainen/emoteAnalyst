@@ -1,0 +1,30 @@
+# Node.js backend
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+coverage/
+dist/
+build/
+*.tgz
+
+# React frontend (Vite)
+node_modules/
+dist/
+.vite/
+*.local
+*.log
+*.env
+.DS_Store
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Icon?
